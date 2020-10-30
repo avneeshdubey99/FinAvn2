@@ -8,7 +8,7 @@ from distutils.core import setup
 setup(
   name = 'FinAvn2',
   packages = ['FinAvn2'],
-  version = '0.8',
+  version = '0.9',
   license='MIT',
   description = 'Performing Financial Time series forecasting using Machine Learning',
   author = 'Avneesh Dubey',
