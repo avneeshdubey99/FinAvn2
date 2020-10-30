@@ -13,8 +13,8 @@ setup(
   description = 'Performing Financial Time series forecasting using Machine Learning',
   author = 'Avneesh Dubey',
   author_email = 'avneesh.d01@gmail.com',
-  url = 'https://github.com/avneeshdubey99/FinAvn',
-  download_url = 'https://github.com/avneeshdubey99/FinAvn.git',
+  url = 'https://github.com/avneeshdubey99/FinAvn2',
+  download_url = 'https://github.com/avneeshdubey99/FinAvn2.git',
   keywords = ['Machine Learning', 'Pandas', 'Numpy', 'Analysis', 'Regression', 'Classification', 'Dimensionality', 'Classifiers'],
   install_requires=[
           'numpy',
