@@ -11,6 +11,7 @@ setup(
   version = '1.0',
   license='MIT',
   description = 'Performing Financial Time series forecasting using Machine Learning',
+  long_description= readme(),
   author = 'Avneesh Dubey',
   author_email = 'avneesh.d01@gmail.com',
   url = 'https://github.com/avneeshdubey99/FinAvn2',
