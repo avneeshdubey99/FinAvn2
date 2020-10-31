@@ -3,6 +3,9 @@
 
 # In[ ]:
 
+def readme():
+    with open('README.md') as f:
+        return f.read()
 
 from distutils.core import setup
 setup(
