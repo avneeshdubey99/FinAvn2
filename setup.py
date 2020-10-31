@@ -3,15 +3,15 @@
 
 # In[ ]:
 
+from distutils.core import setup
+
 def readme():
     with open('README.md') as f:
         return f.read()
-
-from distutils.core import setup
 setup(
   name = 'FinAvn2',
   packages = ['FinAvn2'],
-  version = '1.1',
+  version = '1.2',
   license='MIT',
   description = 'Performing Financial Time series forecasting using Machine Learning',
   long_description= readme(),
